@@ -1,6 +1,6 @@
 # DOB-calculator
 
-This is the first android app I created. It takes in the user's date of birth and returns their age in minutes.
+This is the second android app I created. It takes in the user's date of birth and returns their age in minutes.
 
 ## Get Started
 Wanna use DOC-calculator for yourself?
